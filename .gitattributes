@@ -1,0 +1,11 @@
+# Normalize line endings
+*.min.css linguist-generated
+*.tsx linguist-detectable
+*.woff binary
+*.sh text eol=lf
+* text=auto
+build/* linguist-vendored
+
+*.md linguist-documentation
+public/index.html linguist-vendored
+vendor/* linguist-vendored
