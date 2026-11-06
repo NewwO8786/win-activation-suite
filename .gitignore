@@ -1,0 +1,7 @@
+*.log
+.pnpm-store/
+dist/
+.next/
+*.tgz
+yarn-error.log*
+build/
